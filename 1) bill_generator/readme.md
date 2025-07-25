@@ -38,8 +38,5 @@ python bill_generator.py
 ## ✏️ Note:
 - Try to limit the item names as per the screenshot (8 characters max)
 
-## 💫 Remarks:
-Let me know if you'd like this project to include:
-- Link to try it online (e.g. on Replit or Colab)
-- Option to read inputs from a file or GUI version
-- Add more amount of item names
+## 🌱 Enjoy!
+- Thanks for making my day by reading this far! If you liked my project, please share my repo and follow me for more projects!
