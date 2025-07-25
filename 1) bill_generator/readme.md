@@ -36,4 +36,4 @@ This is a simple **Python-based bill/invoice generator** that takes input for th
 - Try to limit the item names as per the screenshot (8 characters max; will try to fix this in the future!)
 
 ## 🌱 Enjoy!
-- Thanks for making my day by reading this far! If you liked my project, please share my repo and follow me for more projects!
+- Thanks for reading this far! If you liked my project, please share my repo and follow me for more projects!
