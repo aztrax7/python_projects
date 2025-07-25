@@ -39,10 +39,12 @@ Each script runs in a single file and takes user input to perform logic-based co
 ### ▶️ Run the script:
 - Copy the code into your preferred IDLE or online editor and run it!
 
+
 ## ✏️ Remark
 - Make sure the sides and angles follow triangle rules:
   - Angles sum up to exactly 180°.
   - Each side must be less than the sum of the other two.
+
 
 ## 🌱 Enjoy!
 - Thanks for reading this far! If you liked my project, please share my repo and follow me for more projects!
