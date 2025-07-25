@@ -25,7 +25,7 @@ This is a simple **Python-based triangle calculator** that takes input for the t
 ### ▶️ Run the script:
 - Copy the code into your preferred IDLE or online editor and run it!
 
-## ✏️ Remark:
+## ✏️ Remark
 - Make sure the sides and angles follow triangle rules:
   - Angles sum up to exactly 180°.
   - Each side must be less than the sum of the other two.
