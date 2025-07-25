@@ -47,6 +47,11 @@ Each script runs in a single file and takes user input to perform logic-based co
   <img width="128" height="292" alt="image" src="https://github.com/user-attachments/assets/927682a6-0307-4ac1-9576-e3677c76ec91" />
 </p>
 
+- Even or Odd Numbers:
+<p style="text-align: center;">
+  <img width="331" height="180" alt="image" src="https://github.com/user-attachments/assets/7341508b-33a1-4304-a879-3a85673a5ac1" />
+</p>
+
 - Sum of First 'n' Natural Numbers
 <p style="text-align: center;">
   <img width="448" height="55" alt="image" src="https://github.com/user-attachments/assets/92038a6b-9b3e-4f2b-a8cc-f7628e9d7584" />
