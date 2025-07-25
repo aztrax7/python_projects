@@ -39,7 +39,7 @@ Each script runs in a single file and takes user input to perform logic-based co
 
 - Electricity bill generator:
 <p style="text-align: center;">
-  <img width="636" height="75" alt="image" src="https://github.com/user-attachments/assets/00fd8655-1599-43b6-a0fc-6e93aea35732" />
+  <img width="641" height="84" alt="image" src="https://github.com/user-attachments/assets/bf2ef85e-d005-4b40-98b1-ff1fad48eac7" />
 </p>
 
 - Iterator:
@@ -49,7 +49,7 @@ Each script runs in a single file and takes user input to perform logic-based co
 
 - Sum of First 'n' Natural Numbers
 <p style="text-align: center;">
-  <img width="446" height="58" alt="image" src="https://github.com/user-attachments/assets/0e5a0ad2-cf7f-44f8-9215-04aba90971d5" />
+  <img width="448" height="55" alt="image" src="https://github.com/user-attachments/assets/92038a6b-9b3e-4f2b-a8cc-f7628e9d7584" />
 </p>
 
 - Multiplication Table (fixed till 10):
@@ -59,7 +59,7 @@ Each script runs in a single file and takes user input to perform logic-based co
 
 - Multiplication Table (custom limit):
 <p style="text-align: center;">
-  <img width="473" height="455" alt="image" src="https://github.com/user-attachments/assets/c2ce4bad-3c82-496f-82d0-ec66cbc51e5" />
+  <img width="473" height="454" alt="image" src="https://github.com/user-attachments/assets/0f0defc2-0f05-49dd-b285-b060b296dc80" />
 </p>
 
 
