@@ -1,4 +1,4 @@
-![PenInGIF](https://github.com/user-attachments/assets/ba3a17b8-ed59-4a2f-bdd9-9c06c613a3d7)# 🧾 Bill Generator
+# 🧾 Bill Generator
 
 This is a simple **Python-based bill/invoice generator** that takes input for three items (name, cost, and quantity), calculates the total, applies 18% GST, and prints a well-formatted bill with the current date and time.
 
