@@ -9,7 +9,7 @@ Each script runs in a single file and takes user input to perform logic-based co
 
 ### ✔️ Programs Included:
 
-- **Equality Checker**  
+- **<u>Equality Checker<u>**  
   Checks if three numbers are equal, pairwise equal, or which number is greatest.
 
 - **Electricity Bill Generator**  
