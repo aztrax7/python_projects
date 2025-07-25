@@ -20,7 +20,7 @@ This is a simple **Python-based bill/invoice generator** that takes input for th
 
 ## 📷 Sample Output
 
-<img width="795" height="625" alt="image" src="https://github.com/user-attachments/assets/f3555d37-2040-4295-a700-70b13488672c" />
+<img width="784" height="623" alt="image" src="https://github.com/user-attachments/assets/ea724a20-d2da-4372-a03d-fec6947dac06" />
 
 
 ## 🛠 How to Run
