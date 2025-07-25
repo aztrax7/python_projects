@@ -31,4 +31,4 @@ This is a simple **Python-based triangle calculator** that takes input for the t
   - Each side must be less than the sum of the other two.
 
 ## 🌱 Enjoy!
-- Thanks for making my day by reading this far! If you liked my project, please share my repo and follow me for more projects!
+- Thanks for reading this far! If you liked my project, please share my repo and follow me for more projects!
