@@ -37,17 +37,17 @@ Each script runs in a single file and takes user input to perform logic-based co
   <img width="489" height="124" alt="image" src="https://github.com/user-attachments/assets/3713a657-3c01-4b0d-974b-2d84d3c82407" />
 </p>
 
-### Electricity bill generator:
+### Electricity bill generator
 <p style="text-align: center;">
   <img width="641" height="84" alt="image" src="https://github.com/user-attachments/assets/bf2ef85e-d005-4b40-98b1-ff1fad48eac7" />
 </p>
 
-### Iterator:
+### Iterator
 <p style="text-align: center;">
   <img width="128" height="292" alt="image" src="https://github.com/user-attachments/assets/927682a6-0307-4ac1-9576-e3677c76ec91" />
 </p>
 
-### Even or Odd Numbers:
+### Even or Odd Numbers
 <p style="text-align: center;">
   <img width="331" height="180" alt="image" src="https://github.com/user-attachments/assets/7341508b-33a1-4304-a879-3a85673a5ac1" />
 </p>
@@ -57,12 +57,12 @@ Each script runs in a single file and takes user input to perform logic-based co
   <img width="448" height="55" alt="image" src="https://github.com/user-attachments/assets/92038a6b-9b3e-4f2b-a8cc-f7628e9d7584" />
 </p>
 
-### Multiplication Table (fixed till 10):
+### Multiplication Table (fixed till 10)
 <p style="text-align: center;">
   <img width="581" height="344" alt="image" src="https://github.com/user-attachments/assets/e9a73bba-e422-4c06-9a29-e93db1c65a81" />
 </p>
 
-### Multiplication Table (custom limit):
+### Multiplication Table (custom limit)
 <p style="text-align: center;">
   <img width="473" height="454" alt="image" src="https://github.com/user-attachments/assets/0f0defc2-0f05-49dd-b285-b060b296dc80" />
 </p>
