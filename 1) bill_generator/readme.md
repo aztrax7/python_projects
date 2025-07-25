@@ -36,6 +36,7 @@ This is a simple **Python-based bill/invoice generator** that takes input for th
 ```bash
 pip install pytz
 python bill_generator.py
+```
 
 ---
 
