@@ -26,7 +26,7 @@ Here's a list of the folders/projects included so far:
 > Calculates the type and properties of triangles based on user input. Focuses on conditionals and mathematical logic.
 
 ### 3️⃣ equality_checker_&_others
-> A collection of beginner-level Python scripts to check equality, compare values, and more. Explores logical operators and basic flow control.
+>A collection of beginner-friendly Python programs that include checking equality between numbers, identifying the greatest, generating multiplication tables, summing natural numbers, classifying even/odd numbers, and basic iteration. Perfect for mastering conditional logic, loops, and user input in Python.
 
 ### 4️⃣ turtle_design_&_others
 > Fun projects using Python's `turtle` graphics module. Good for practicing loops, colors, and basic geometry.
