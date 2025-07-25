@@ -38,7 +38,7 @@ pip install pytz
 python bill_generator.py
 ```
 
-###✏️ **Note:**
+## ✏️ Note:
 - Try to limit the item name as per the screenshot (8 characters max)
 
 ---
