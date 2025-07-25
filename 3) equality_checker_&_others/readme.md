@@ -30,25 +30,37 @@ Each script runs in a single file and takes user input to perform logic-based co
 - **Multiplication Table (custom limit)**  
   Generates a multiplication table up to a user-defined multiplier.
 
-## 📷 Sample Output:
+## Sample Output:
 
 - Equality Checker:
+<p style="text-align: center;">
   <img width="489" height="124" alt="image" src="https://github.com/user-attachments/assets/3713a657-3c01-4b0d-974b-2d84d3c82407" />
+</p>
 
 - Electricity bill generator:
-  <img width="636" height="75" alt="image" src="https://github.com/user-attachments/assets/0dfd8655-1599-43b6-a0fc-6e93aea35732" />
+<p style="text-align: center;">
+  <img width="636" height="75" alt="image" src="https://github.com/user-attachments/assets/00fd8655-1599-43b6-a0fc-6e93aea35732" />
+</p>
 
 - Iterator:
+<p style="text-align: center;">
   <img width="128" height="292" alt="image" src="https://github.com/user-attachments/assets/927682a6-0307-4ac1-9576-e3677c76ec91" />
+</p>
 
 - Sum of First 'n' Natural Numbers
-  <img width="446" height="58" alt="image" src="https://github.com/user-attachments/assets/0e5a0ad2-cf7f-4df8-9215-04aba90971d5" />
+<p style="text-align: center;">
+  <img width="446" height="58" alt="image" src="https://github.com/user-attachments/assets/0e5a0ad2-cf7f-44f8-9215-04aba90971d5" />
+</p>
 
 - Multiplication Table (fixed till 10):
+<p style="text-align: center;">
   <img width="581" height="344" alt="image" src="https://github.com/user-attachments/assets/e9a73bba-e422-4c06-9a29-e93db1c65a81" />
+</p>
 
 - Multiplication Table (custom limit):
-  <img width="473" height="455" alt="image" src="https://github.com/user-attachments/assets/c2ce4bad-3c82-496f-82d0-ec66cebc51e5" />
+<p style="text-align: center;">
+  <img width="473" height="455" alt="image" src="https://github.com/user-attachments/assets/c2ce4bad-3c82-496f-82d0-ec66cbc51e5" />
+</p>
 
 
 ## 🛠 How to Run
