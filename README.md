@@ -31,7 +31,7 @@ Here's a list of the folders/projects included so far:
 >A collection of beginner-friendly Python programs that include checking equality between numbers, identifying the greatest, generating multiplication tables, summing natural numbers, classifying even/odd numbers, and basic iteration. Perfect for mastering conditional logic, loops, and user input in Python.
 
 ### 4️⃣ turtle_design_&_others
-> Fun projects using Python's `turtle` graphics module. Good for practicing loops, colors, and basic geometry.
+> A mix of visually creative `turtle` graphics and beginner-level Python loop exercises. Includes artistic circle-square `turtle` designs with dots, structured loop outputs, and dynamic multiplication tables. Great for learning graphical programming, nested loops, and range-based iteration.
 
 ### 5️⃣ for_and_while_loop_operations
 > Contains Python programs that demonstrate the use of `for` and `while` loops through small tasks and operations.
