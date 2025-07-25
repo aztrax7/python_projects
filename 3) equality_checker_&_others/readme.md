@@ -30,6 +30,10 @@ Each script runs in a single file and takes user input to perform logic-based co
 - **Multiplication Table (custom limit)**  
   Generates a multiplication table up to a user-defined multiplier.
 
+## 📷 Sample Output:
+
+
+
 
 ## 🛠 How to Run
 
