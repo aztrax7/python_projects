@@ -34,7 +34,7 @@ Here's a list of the folders/projects included so far:
 > A mix of visually creative `turtle` graphics and beginner-level Python loop exercises. Includes artistic circle-square `turtle` designs with dots, structured loop outputs, and dynamic multiplication tables. Great for learning graphical programming, nested loops, and range-based iteration.
 
 ### 5️⃣ for_and_while_loop_operations
-> Contains Python programs that demonstrate the use of `for` and `while` loops through small tasks and operations.
+> A diverse collection of beginner-friendly Python programs using for and while loops. Includes classic pattern printing (stars, number pyramids, reverse counters), creative number alignments with spaces, and a dynamic bill totaler using a while loop. Ideal for mastering nested loops, range logic, user input handling, and flow control.
 
 ---
 
