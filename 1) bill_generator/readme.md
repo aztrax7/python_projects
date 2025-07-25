@@ -30,10 +30,7 @@ This is a simple **Python-based bill/invoice generator** that takes input for th
 - `pytz` library (for timezone support)
 
 ### ▶️ Run the script:
-```bash
-pip install pytz
-python bill_generator.py
-```
+- Copy the code into your preferred IDLE or online editor and run it!
 
 ## ✏️ Note:
 - Try to limit the item names as per the screenshot (8 characters max)
