@@ -13,7 +13,6 @@ This repository is a learning archive where I apply and expand my Python knowled
 - Basic math logic
 - Turtle graphics
 - File operations (upcoming)
-- Jupyter Notebooks
 
 
 ## 📁 Current Projects
