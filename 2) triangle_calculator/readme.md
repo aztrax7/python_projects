@@ -23,9 +23,7 @@ This is a simple **Python-based triangle calculator** that takes input for the t
 - Python 3.x
 
 ### ▶️ Run the script:
-```bash
-python triangle_calculator.py
-```
+- Copy the code into your preferred IDLE or online editor and run it!
 
 ## ✏️ Remark:
 - Make sure the sides and angles follow triangle rules:
