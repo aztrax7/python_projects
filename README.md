@@ -72,10 +72,3 @@ This repository is licensed under the [MIT License](LICENSE) — you're free to 
 ---
 
 Thanks for visiting! 🌱
-Let me know if you’d like a banner image, a project status badge, or links to your GitHub profile or online portfolio added.
-
-
-
-
-No file chosenNo file chosen
-ChatGPT can make mistakes. Check important info.
