@@ -3,25 +3,6 @@
 Welcome to my personal collection of Python projects!  
 This repository is a learning archive where I apply and expand my Python knowledge by working on different mini-projects and challenges. I’ll be updating it regularly as I continue to explore new concepts.
 
-## 📁 Current Projects
-
-Here's a list of the folders/projects included so far:
-
-### 1️⃣ bill_generator
-> A simple Python program to create itemized bills. Great for practicing input/output operations and string formatting.
-
-### 2️⃣ triangle_calculator
-> Calculates the type and properties of triangles based on user input. Focuses on conditionals and mathematical logic.
-
-### 3️⃣ equality_checker_&_others
-> A collection of beginner-level Python scripts to check equality, compare values, and more. Explores logical operators and basic flow control.
-
-### 4️⃣ turtle_design_&_others
-> Fun projects using Python's `turtle` graphics module. Good for practicing loops, colors, and basic geometry.
-
-### 5️⃣ for_and_while_loop_operations
-> Contains Python programs that demonstrate the use of `for` and `while` loops through small tasks and operations.
-
 ---
 
 ## 🧠 Skills Covered
