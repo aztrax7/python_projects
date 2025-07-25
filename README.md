@@ -3,6 +3,7 @@
 Welcome to my personal collection of Python projects!  
 This repository is a learning archive where I apply and expand my Python knowledge by working on different mini-projects and challenges. I’ll be updating it regularly as I continue to explore new concepts!
 
+---
 
 ## 🧠 Skills Covered
 
@@ -14,6 +15,7 @@ This repository is a learning archive where I apply and expand my Python knowled
 - Turtle graphics
 - File operations (upcoming)
 
+---
 
 ## 📁 Current Projects
 
@@ -34,6 +36,7 @@ Here's a list of the folders/projects included so far:
 ### 5️⃣ for_and_while_loop_operations
 > Contains Python programs that demonstrate the use of `for` and `while` loops through small tasks and operations.
 
+---
 
 ## 🛠 How to Run
 
@@ -44,11 +47,13 @@ You can open them locally using:
 2. **VS Code** with the Jupyter extension  
 3. **Google Colab** (just upload the notebook)
 
+---
 
 ## 🤝 Contributions
 
 This is a personal learning space, but if you have suggestions or want to contribute in some way, feel free to fork or open an issue!
 
+---
 
 ## 📜 License
 
