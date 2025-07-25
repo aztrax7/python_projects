@@ -32,7 +32,31 @@ Each script runs in a single file and takes user input to perform logic-based co
 
 ## 📷 Sample Output:
 
+- Equality Checker:
+  <img width="489" height="124" alt="image" src="https://github.com/user-attachments/assets/3713a657-3c01-4b0d-974b-2d84d3c82407" />
 
+- Electricity bill generator:
+  - Units used < 150:
+    <img width="630" height="77" alt="image" src="https://github.com/user-attachments/assets/7715d1e5-5316-4563-83c0-e52db56a1935" />
+  - 150 < Units used ≤ 250:
+    <img width="645" height="84" alt="image" src="https://github.com/user-attachments/assets/036b24d6-2cb3-4fcc-8746-ea356dcd6d77" />
+  - Units used > 250:
+    <img width="636" height="75" alt="image" src="https://github.com/user-attachments/assets/0dfd8655-1599-43b6-a0fc-6e93aea35732" />
+
+- Iterator:
+  <img width="128" height="292" alt="image" src="https://github.com/user-attachments/assets/927682a6-0307-4ac1-9576-e3677c76ec91" />
+
+- Odd and Even Numbers:
+
+
+- Sum of First 'n' Natural Numbers
+  <img width="446" height="58" alt="image" src="https://github.com/user-attachments/assets/0e5a0ad2-cf7f-4df8-9215-04aba90971d5" />
+
+- Multiplication Table (fixed till 10):
+  <img width="581" height="344" alt="image" src="https://github.com/user-attachments/assets/e9a73bba-e422-4c06-9a29-e93db1c65a81" />
+
+- Multiplication Table (custom limit):
+  <img width="473" height="455" alt="image" src="https://github.com/user-attachments/assets/c2ce4bad-3c82-496f-82d0-ec66cebc51e5" />
 
 
 ## 🛠 How to Run
