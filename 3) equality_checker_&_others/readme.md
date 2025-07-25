@@ -45,4 +45,4 @@ Each script runs in a single file and takes user input to perform logic-based co
   - Each side must be less than the sum of the other two.
 
 ## 🌱 Enjoy!
-- Thanks for making my day by reading this far! If you liked my project, please share my repo and follow me for more projects!
+- Thanks for reading this far! If you liked my project, please share my repo and follow me for more projects!
