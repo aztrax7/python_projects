@@ -6,14 +6,13 @@ This project is a mix of **Turtle graphics design** and **loop-based Python prog
 
 ## 📌 Features
 
-### ✅ Programs Included:
+### ✔️ Programs Included:
 
-1. **Turtle Circle with Squares and Dots**
+- **Turtle Circle with Squares and Dots**
    - Uses the `turtle` module to draw:
      - A circular path
      - Small squares on the perimeter
      - Dots at the end of each square
-   - Demonstrates the use of loops and rotations for creative designs.
 
 2. **Nested Loop Pattern (Value of i and j)**
    - Prints a series of nested loops in the following format:
