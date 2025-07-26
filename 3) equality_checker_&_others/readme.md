@@ -30,7 +30,7 @@ Each script runs in a single file and takes user input to perform logic-based co
 - **Multiplication Table (custom limit)**  
   Generates a multiplication table up to a user-defined multiplier.
 
-## Sample Output:
+## 📷 Sample Output:
 
 ### Equality Checker:
 <p style="text-align: center;">
