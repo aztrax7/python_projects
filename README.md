@@ -18,7 +18,6 @@ This repository is a learning archive where I apply and expand my Python knowled
 
 ---
 
-
 ## 🛠 How to Run
 
 All the projects, so far, are written in Python and formatted as Jupyter Notebooks (`.ipynb`).  
