@@ -15,13 +15,7 @@ This project is a mix of **Turtle graphics design** and **loop-based Python prog
      - Dots at the end of each square
 
 - **Nested Loop Pattern (Value of i and j)**
-   - Prints a series of nested loops in the following format:
-     ```
-     Value of i: 0
-     0 1 2 3 4 5 6 7 8 9
-     Value of i: 1
-     0 1 2 3 4 5 6 7 8 9
-     ```
+   - Prints a series of nested loops in the given format in the code
 
 - **Multiplication Tables from n to 10**
    - Accepts a starting number `n` and prints multiplication tables up to 10 for all numbers from `n` to 10.
@@ -33,8 +27,6 @@ This project is a mix of **Turtle graphics design** and **loop-based Python prog
 <p style="text-align: center;">
   <img width="398" height="370" alt="image" src="https://github.com/user-attachments/assets/b6848fde-7950-4ed0-90a0-e2c7861d3c8f" />
 </p>
-  
-
 
 
 ## 🛠 How to Run
