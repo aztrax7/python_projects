@@ -21,7 +21,7 @@ This project is a mix of **Turtle graphics design** and **loop-based Python prog
      0 1 2 3 4 5 6 7 8 9
      Value of i: 1
      0 1 2 3 4 5 6 7 8 9
-     ...
+     
      ```
 
 - **Multiplication Tables from n to 10**
