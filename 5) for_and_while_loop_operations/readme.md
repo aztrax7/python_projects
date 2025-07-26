@@ -26,44 +26,37 @@ Each script runs in a single file and takes user input to print structured patte
 - **Wide Pyramid Number Pattern**  
   Prints a centered pyramid with extra spacing for alignment.
 
-- **Bill Totaler (While Loop)**  
-  Continuously takes bill amounts from the user and sums them until `0` is entered.
 
 ## 📷 Sample Output:
 
 ### Star Pattern (Left-Aligned):
 <p style="text-align: center;">
-  <img width="180" height="150" alt="image" src="https://github.com/user-attachments/assets/sample-star-pattern" />
+  <img width="446" height="480" alt="image" src="https://github.com/user-attachments/assets/471e2ad5-96a1-46d1-a2d4-92094fee56ef" />
 </p>
 
 ### Number Pattern (Increasing Order):
 <p style="text-align: center;">
-  <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/sample-number-pattern" />
+  <img width="450" height="433" alt="image" src="https://github.com/user-attachments/assets/359286d9-195c-4200-912c-51a6c4c3c909" />
 </p>
 
-### Decreasing Number Pattern:
+### Number Pattern (Decreasing Order):
 <p style="text-align: center;">
-  <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/sample-decreasing-number" />
+  <img width="451" height="256" alt="image" src="https://github.com/user-attachments/assets/e54b5fdd-ba50-4c79-b88a-6df400801569" />
 </p>
 
 ### Number Pyramid (Centered):
 <p style="text-align: center;">
-  <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/sample-number-pyramid" />
+  <img width="452" height="253" alt="image" src="https://github.com/user-attachments/assets/c0ab2684-dbe8-41b6-9e71-7651916141f5" />
 </p>
 
 ### Star Pyramid (Centered):
 <p style="text-align: center;">
-  <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/sample-star-pyramid" />
+  <img width="453" height="251" alt="image" src="https://github.com/user-attachments/assets/3734bd3d-6dc2-4266-a1cb-59fbcc7bc536" />
 </p>
 
-### Wide Pyramid Number Pattern:
+### Number Pattern (Right-aligned):
 <p style="text-align: center;">
-  <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/sample-wide-number-pyramid" />
-</p>
-
-### Bill Totaler:
-<p style="text-align: center;">
-  <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/sample-bill-totaler" />
+  <img width="453" height="251" alt="image" src="https://github.com/user-attachments/assets/44ad5b62-27bf-4b1b-918d-79ac35a1933a" />
 </p>
 
 ## 🛠 How to Run
