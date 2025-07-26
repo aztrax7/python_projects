@@ -18,38 +18,11 @@ This repository is a learning archive where I apply and expand my Python knowled
 
 ---
 
-## 📁 Current Projects
-
-Here's a list of the folders/projects included so far:
-
-### 1️⃣ bill_generator
-> A simple Python program to create itemized bills. Great for **practicing input/output operations and string formatting**.
-
-### 2️⃣ triangle_calculator
-> Calculates the type and properties of triangles based on user input. **Focuses on conditionals and mathematical logic**.
-
-### 3️⃣ equality_checker_&_others
-> A collection of beginner-friendly Python programs that include checking equality between numbers, identifying the greatest, generating multiplication tables, summing natural numbers, classifying even/odd numbers, and basic iteration.
-> **Perfect for mastering conditional logic, loops, and user input** in Python.
-
-### 4️⃣ turtle_design_&_for_loops
-> A mix of visually creative `turtle` graphics and beginner-level Python loop exercises. Includes artistic circle-square `turtle` designs with dots, structured loop outputs, and dynamic multiplication tables.
-> Great for **learning graphical programming, nested loops, and range-based iteration**.
-
-### 5️⃣ for_and_while_loop_operations
-> A diverse collection of beginner-friendly Python programs using for and while loops. Includes classic pattern printing (stars, number pyramids, reverse counters), creative number alignments with spaces, and a dynamic bill totaler using a while loop. 
-> Ideal for **mastering nested loops, range logic, user input handling, and flow control**.
-
----
 
 ## 🛠 How to Run
 
 All the projects are written in Python and formatted as Jupyter Notebooks (`.ipynb`).  
-You can open them locally using:
-
-1. **Jupyter Notebook / JupyterLab**  
-2. **VS Code** with the Jupyter extension  
-3. **Google Colab** (just upload the notebook)
+You can open them locally by copying the code into your preferred IDLE (Integrated Development Learning Environment) and running it!
 
 ---
 
