@@ -27,6 +27,16 @@ This project is a mix of **Turtle graphics design** and **loop-based Python prog
    - Accepts a starting number `n` and prints multiplication tables up to 10 for all numbers from `n` to 10.
 
 
+## 📷 Sample Output
+
+### Turtle Circle with Squares and Dots:
+<p style="text-align: center;">
+  <img width="398" height="370" alt="image" src="https://github.com/user-attachments/assets/b6848fde-7950-4ed0-90a0-e2c7861d3c8f" />
+</p>
+  
+
+
+
 ## 🛠 How to Run
 
 ### 🖥 Requirements:
