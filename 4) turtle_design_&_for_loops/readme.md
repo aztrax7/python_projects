@@ -26,10 +26,17 @@ This project is a mix of **Turtle graphics design** and **loop-based Python prog
 - **Multiplication Tables from n to 10**
    - Accepts a starting number `n` and prints multiplication tables up to 10 for all numbers from `n` to 10.
 
----
 
 ## 🛠 How to Run
 
 ### 🖥 Requirements:
 - Python 3.x
 - `turtle` module (comes pre-installed with Python)
+
+
+### ▶️ Run the script:
+- Copy the code into your preferred IDLE or online editor and run it!
+
+
+## 🌱 Enjoy!
+- Thanks for reading this far! If you liked my project, please share my repo and follow me for more projects!
