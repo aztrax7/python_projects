@@ -2,7 +2,6 @@
 
 This project is a mix of **Turtle graphics design** and **loop-based Python programs**. It combines creative visual designs with practical logic exercises, making it perfect for learning nested loops, ranges, and Python's `turtle` graphics module.
 
----
 
 ## 📌 Features
 
