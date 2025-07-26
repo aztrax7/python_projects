@@ -1,4 +1,4 @@
-# 🧮 Equality Checker & Other Programs
+# 🐢 Turtle Design and for loops 
 
 This is a collection of beginner-friendly Python programs that demonstrate basic concepts like conditional statements, loops, arithmetic operations, and input handling.
 
