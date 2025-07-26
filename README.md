@@ -21,7 +21,7 @@ This repository is a learning archive where I apply and expand my Python knowled
 
 ## 🛠 How to Run
 
-All the projects are written in Python and formatted as Jupyter Notebooks (`.ipynb`).  
+All the projects, so far, are written in Python and formatted as Jupyter Notebooks (`.ipynb`).  
 You can open them locally by copying the code into your preferred IDLE (Integrated Development Learning Environment) and running it!
 
 ---
