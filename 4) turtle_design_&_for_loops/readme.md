@@ -5,8 +5,6 @@ This project is a mix of **Turtle graphics design** and **loop-based Python prog
 
 ## 📌 Features
 
-### ✔️ Programs Included:
-
 - **Turtle Circle with Squares and Dots**
    - Uses the `turtle` module to draw:
      - A circular path
