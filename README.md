@@ -1,5 +1,3 @@
-[Python_Projects_Updated_README.md](https://github.com/user-attachments/files/33929588/Python_Projects_Updated_README.md)
-
 # Python Projects 🐍
 
 **A collection of small Python experiments, from printing bills to making patterns that somehow take 20 lines of code.**
